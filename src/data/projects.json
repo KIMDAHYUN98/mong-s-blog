@@ -1,0 +1,16 @@
+[
+  {
+    "id": "toonovel",
+    "title": "TooNovel",
+    "description": "웹소설 리뷰/추천/커뮤니티 플랫폼",
+    "tech": ["Vue 2.7", "Spring Boot", "MariaDB", "JWT"],
+    "link": "https://github.com/your-id/toonovel"
+  },
+  {
+    "id": "iot-cctv",
+    "title": "Raspberry Pi IoT CCTV",
+    "description": "실시간 스트리밍 + 서보모터 제어",
+    "tech": ["Python", "Flask", "OpenCV", "Raspberry Pi"],
+    "link": "https://github.com/your-id/iot-cctv"
+  }
+]
